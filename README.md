@@ -7,7 +7,7 @@ download para a maquina local
 
 Executar th.jar:
 ===============
-execute o arquivo “jar/th.jar” como exibido:
+execute o arquivo “jar/th.jar” como exibido: <br/>
 	java -jar th.jar
 
 assim ele aguarda a entrada a ser processada, no caso as linhas com as mãos da partida, exemplo:
