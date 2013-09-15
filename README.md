@@ -9,6 +9,12 @@ Executar th.jar:
 ===============
 execute o arquivo “jar/th.jar” como exibido: <br/>
 	java -jar th.jar
+	
+
+        var currentEntry; // entrada atualmente selecionada da tabela
+        var level;        // nível do recuo
+        var size;         // tamanho da tabela
+
 
 assim ele aguarda a entrada a ser processada, no caso as linhas com as mãos da partida, exemplo:
 
